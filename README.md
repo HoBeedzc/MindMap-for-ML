@@ -19,7 +19,7 @@ https://github.com/HoBeedzc/MindMap-for-ML/issues
 mailto:me@hobeedzc.cn
 
 
-## Current job 目前工作
+## Current work 目前工作
 
 Machine Learning ch01 02 03
 西瓜书第1，2，3章
