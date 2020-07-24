@@ -9,6 +9,16 @@ just framework, no details.
 because i am just a noob.
 因为我是个初学者。
 
+All content will be published in my blog synchronously http://blog.hobeedzc.cn
+所有内容会同步发表于我的博客
+
+If you have any questions, please feedback in issues or contact me via email.
+如有问题请毫不犹豫地去Issues中进行反馈，或通过邮件联系我。
+https://github.com/HoBeedzc/MindMap-for-ML/issues
+
+mailto:me@hobeedzc.cn
+
+
 ## Current job 目前工作
 
 Machine Learning ch01 02 03
